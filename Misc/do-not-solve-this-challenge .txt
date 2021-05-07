@@ -1,0 +1,4 @@
+ do-not-solve-this-challenge
+-1
+
+The flag is WPI{d0nt_do_1t}

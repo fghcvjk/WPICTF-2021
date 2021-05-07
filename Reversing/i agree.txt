@@ -1,0 +1,6 @@
+ i agree
+0
+
+Some challenges in this CTF contain live malware. To unlock the malware related challenges, enter the flag below into the answer box. We also suggest to complete these challenges on a burner laptop or inside of a VM. By entering the flag, you agree that we are not responsible for any damages done by these challenges.
+
+WPI{i_agree}

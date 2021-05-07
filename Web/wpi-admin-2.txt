@@ -1,0 +1,10 @@
+ wpi-admin-2
+250
+
+Now that you've hacked into a student worker's account, maybe you can access the admin portal.
+
+Creator: UnknownSilicon (Jake B)
+
+Hint
+
+What other ways are there to bypass logins?

@@ -1,0 +1,10 @@
+ wpi-admin-3
+300
+
+You've finally made it to the administration page, but it doesn't seem simple to update grades. Can you figure it out? Remember to put in 4 semesters worth of classes! Once again, your friend's email is alexo@uupeye.edu
+
+Creator: UnknownSilicon (Jake B)
+
+Hint
+
+Maybe they are storing an example configuration file somewhere?
